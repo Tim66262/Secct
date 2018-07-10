@@ -1,0 +1,15 @@
+{
+  "name": "secct",
+  "version": "1.0.0",
+  "description": "Realtime Chat App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim D'Amato",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  }
+}
